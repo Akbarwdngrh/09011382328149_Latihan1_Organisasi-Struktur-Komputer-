@@ -12,8 +12,11 @@ seperti : set intruksi, aritmatika yang digunakan teknik pengalamatan, mekanisme
 
 Dibawah ini merupakan fungsi-fungsi berdasarkan gambar diatas
 -Central Processing Unit (CPU) : Mengontrol operasi komputer dan membentuk fungsi-fungsi pengolahan datanya.
+
 -Main Memory : Menyimpan Data.
+
 -Input/Output : Memindahkan data antara komputer dengan lingkungan luarnya.
+
 -System InterConnection : Beberapa mekanisme komunikasi antara CPU, Memori utama dan Input/Output.
 
 **Struktur Central Processing Unit**
@@ -22,8 +25,11 @@ Dibawah ini merupakan fungsi-fungsi berdasarkan gambar diatas
 
 Dibawah ini merupakan fungsi-fungsi berdasarkan gambar diatas
 -Control Unit : Mengontrol operasi CPU dan pada akhirnya mengontrol komputer.
+
 -Arithmetic and Logic Unit (ALU) : Membentuk fungsi-fungsi pengolahan data komputer.
+
 -Register : Sebagai Penyimpanan internal bagi CPU
+
 -CPU Interconnections : Sejumlah mekanisme komunikasi antara Control Unit, ALU dam Register-register.
 
 **Fungsi Komputer**
