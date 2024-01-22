@@ -1,4 +1,4 @@
-**Organisasi & Struktur Komputer**
+**ORGANISASI & ARSITEKTUR KOMPUTER**
 
 Perbedaan antara Organisasi Komputer dan Arsitektur yakni pada arsitektur komputer, merupakan bagian yang terkait erat dengan unit unit operasional di dalam komputer.
 seperti : teknologi hardware, perangkat antarmuka, teknologi memori, sistem memori, dan sinyal sinyal kontrol
