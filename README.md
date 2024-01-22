@@ -7,6 +7,7 @@ seperti : set intruksi, aritmatika yang digunakan teknik pengalamatan, mekanisme
 
 **Struktur Top Level Komputer**
 ![Untitled Diagram drawio](https://github.com/Akbarwdngrh/09011382328149_Latihan1_Organisasi-Struktur-Komputer-/assets/146687810/72db4963-f668-4b87-8909-88baad7e1810)
+
 Dibawah ini merupakan fungsi-fungsi berdasarkan gambar diatas
 -Central Processing Unit (CPU) : Mengontrol operasi komputer dan membentuk fungsi-fungsi pengolahan datanya.
 -Main Memory : Menyimpan Data.
@@ -15,6 +16,7 @@ Dibawah ini merupakan fungsi-fungsi berdasarkan gambar diatas
 
 **Struktur Central Processing Unit**
 ![Untitled Diagram drawio (7)](https://github.com/Akbarwdngrh/09011382328149_Latihan1_Organisasi-Struktur-Komputer-/assets/146687810/99479a1d-bb25-4e93-9c8f-d45016289d62)
+
 Dibawah ini merupakan fungsi-fungsi berdasarkan gambar diatas
 -Control Unit : Mengontrol operasi CPU dan pada akhirnya mengontrol komputer.
 -Arithmetic and Logic Unit (ALU) : Membentuk fungsi-fungsi pengolahan data komputer.
