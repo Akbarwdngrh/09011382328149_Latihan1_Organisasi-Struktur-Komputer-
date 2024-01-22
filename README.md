@@ -4,7 +4,6 @@ Perbedaan antara Organisasi Komputer dan Arsitektur yakni pada arsitektur komput
 seperti : teknologi hardware, perangkat antarmuka, teknologi memori, sistem memori, dan sinyal sinyal kontrol
 Jika pada Arsitekturnya merupakan atribut sistem komputer yang terkait dengan seorang progammer
 seperti : set intruksi, aritmatika yang digunakan teknik pengalamatan, mekanisme I/O
-
 **Struktur Top Level Komputer**
 ![Untitled Diagram drawio (8)](https://github.com/Akbarwdngrh/09011382328149_Latihan1_Organisasi-Struktur-Komputer-/assets/146687810/3a7aac02-c144-471e-8fd1-714a70c5c8bd)
 
@@ -12,7 +11,7 @@ Dibawah ini merupakan fungsi-fungsi berdasarkan gambar diatas
 -Central Processing Unit (CPU) : Mengontrol operasi komputer dan membentuk fungsi-fungsi pengolahan datanya.
 -Main Memory : Menyimpan Data.
 -Input/Output : Memindahkan data antara komputer dengan lingkungan luarnya.
--System Interconnection : Beberapa mekanisme komunikasi antara CPU, Memori utama dan Input/Output.
+-System InterConnection : Beberapa mekanisme komunikasi antara CPU, Memori utama dan Input/Output.
 
 **Struktur Central Processing Unit**
 ![Untitled Diagram drawio (7)](https://github.com/Akbarwdngrh/09011382328149_Latihan1_Organisasi-Struktur-Komputer-/assets/146687810/99479a1d-bb25-4e93-9c8f-d45016289d62)
