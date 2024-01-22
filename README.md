@@ -6,7 +6,7 @@ Jika pada Arsitekturnya merupakan atribut sistem komputer yang terkait dengan se
 seperti : set intruksi, aritmatika yang digunakan teknik pengalamatan, mekanisme I/O
 
 **Struktur Top Level Komputer**
-![Untitled Diagram drawio](https://github.com/Akbarwdngrh/09011382328149_Latihan1_Organisasi-Struktur-Komputer-/assets/146687810/72db4963-f668-4b87-8909-88baad7e1810)
+![Untitled Diagram drawio (8)](https://github.com/Akbarwdngrh/09011382328149_Latihan1_Organisasi-Struktur-Komputer-/assets/146687810/3a7aac02-c144-471e-8fd1-714a70c5c8bd)
 
 Dibawah ini merupakan fungsi-fungsi berdasarkan gambar diatas
 -Central Processing Unit (CPU) : Mengontrol operasi komputer dan membentuk fungsi-fungsi pengolahan datanya.
