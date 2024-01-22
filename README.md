@@ -4,6 +4,7 @@ Perbedaan antara Organisasi Komputer dan Arsitektur yakni pada arsitektur komput
 seperti : teknologi hardware, perangkat antarmuka, teknologi memori, sistem memori, dan sinyal sinyal kontrol
 Jika pada Arsitekturnya merupakan atribut sistem komputer yang terkait dengan seorang progammer
 seperti : set intruksi, aritmatika yang digunakan teknik pengalamatan, mekanisme I/O
+
 **Struktur Top Level Komputer**
 ![Untitled Diagram drawio (8)](https://github.com/Akbarwdngrh/09011382328149_Latihan1_Organisasi-Struktur-Komputer-/assets/146687810/3a7aac02-c144-471e-8fd1-714a70c5c8bd)
 
