@@ -13,7 +13,6 @@ Dibawah ini merupakan fungsi-fungsi berdasarkan gambar diatas
 -Input/Output : Memindahkan data antara komputer dengan lingkungan luarnya.
 -System Interconnection : Beberapa mekanisme komunikasi antara CPU, Memori utama dan Input/Output.
 
-
 **Struktur Central Processing Unit**
 ![Untitled Diagram drawio (7)](https://github.com/Akbarwdngrh/09011382328149_Latihan1_Organisasi-Struktur-Komputer-/assets/146687810/99479a1d-bb25-4e93-9c8f-d45016289d62)
 Dibawah ini merupakan fungsi-fungsi berdasarkan gambar diatas
